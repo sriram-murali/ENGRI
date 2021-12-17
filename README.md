@@ -1,2 +1,0 @@
-# ENGRI
-Final Project
